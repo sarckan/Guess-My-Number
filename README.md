@@ -25,10 +25,23 @@ A fun, interactive number guessing game built with HTML, CSS, and JavaScript! �
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/guess-my-number.git
+git clone https://github.com/your-username/Guess-My-Number.git
 ```
 
 3. Open `index.html` in your web browser to start playing. 🎉
+
+## Project Structure
+
+```
+guess-my-number/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── LICENSE
+└── .gitignore
+
+```
 
 ## 💻 Technologies Used
 
@@ -36,3 +49,5 @@ git clone https://github.com/your-username/guess-my-number.git
 - CSS3
 - JavaScript (ES6+)
 
+Have fun playing 🔢 Guess My Number Game
+LICENSE (MIT License)
